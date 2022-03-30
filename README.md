@@ -1,7 +1,6 @@
 ### Welcome to my profile 👋
 
 I'm a **Software Engineer** currently working with **vAudience**! :sunglasses:<br>
-Feel free to **Contact Me** via: **lewcodesstuff@gmail.com** :email: <br>
 
 <div style="display: flex;">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
