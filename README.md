@@ -4,7 +4,7 @@
 
 Currently crafting stuff at **vAudience** 🚀
 
-![Coding Gif Placeholder]([https://via.placeholder.com/400x200.png?text=Coding+Gif+Here](https://giphy.com/gifs/JIX9t2j0ZTN9S)
+![Coding]([https://giphy.com/gifs/JIX9t2j0ZTN9S])
 
 ### 🛠️ Tech Stack
 
