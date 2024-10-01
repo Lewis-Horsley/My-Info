@@ -2,9 +2,7 @@
 
 ## 💻 Software Engineer | Problem Solver | Mid Producer
 
-Currently crafting stuff at **vAudience** 🚀
-
-![Coding]([https://giphy.com/gifs/JIX9t2j0ZTN9S])
+Currently coding stuff at **vAudience** 🚀
 
 ### 🛠️ Tech Stack
 
@@ -25,8 +23,8 @@ Currently crafting stuff at **vAudience** 🚀
 
 ### 💼 Experience Highlights
 
-- 🔧 Developed robust backend systems using Java and Go
-- 🐍 Implemented AI pipelines with Python
+- 🔧 Designed, developed and supported robust backend systems using Java and Go
+- 🐍 Implemented AI pipelines with Python, AWS and Go
 - 📱 Created cross-platform mobile apps using Dart and Flutter
 - 🌐 Built responsive web applications with JavaScript and TypeScript
 
