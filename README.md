@@ -1,4 +1,4 @@
-## 💻 Software Engineer | Problem Solver | Mid Producer
+## 💻 Software Engineer | Problem Solver | Mid Producer 🎹
 
 Currently coding stuff at **vAudience** 🚀
 
